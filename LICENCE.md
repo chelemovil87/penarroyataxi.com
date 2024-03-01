@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Johnkat-Mj
+Copyright (c) 2024 Jose Eduardo Rodriguez Fernandez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,9 +1,9 @@
-<h1>AgenceX Landing page</h1>
+<h1>www.peñarroyataxi.com</h1>
 
-A simple landing page for a digital agency
+A simple landing page for a service taxi
 
-![AgenceX light Theme](./screens/demoLight.webp)
-![AgenceX Dark Theme](./screens/demoDark.webp)
+![Peñarroyataxi.com light Theme](./screens/demoLight.webp)
+![Peñarroyataxi.com Dark Theme](./screens/demoDark.webp)
 
 
 ## Tools

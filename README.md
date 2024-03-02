@@ -2,8 +2,8 @@
 
 A simple landing page for a service taxi
 
-![Peñarroyataxi.com light Theme](./public/screens/demoLight.webp)
-![Peñarroyataxi.com Dark Theme](./public/screens/demoDark.webp)
+![Peñarroyataxi.com light Theme](./screens/demoLight.webp)
+![Peñarroyataxi.com Dark Theme](./screens/demoDark.webp)
 
 
 ## Tools
@@ -11,7 +11,7 @@ A simple landing page for a service taxi
 - AstroJs v3
 
 
-## 🚀 Project Structure
+##  Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
 

@@ -37,7 +37,7 @@ Inside of your Astro project, you'll see the following folders and files:
 ```
 
 
-## 🧞 Commands
+##  Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -50,4 +50,6 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
-
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lu4hkqb72bxqk4ix5iql" alt="trackgit-views" />
+</a>

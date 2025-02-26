@@ -1,4 +1,4 @@
-<h1>www.peñarroyataxi.com</h1>
+<h1><a href="https://xn--pearroyataxi-bhb.com/">www.peñarroyataxi.com</a></h1>
 
 A simple landing page for a service taxi
 

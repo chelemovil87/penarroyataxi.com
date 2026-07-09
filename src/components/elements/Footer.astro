@@ -1,16 +1,19 @@
 ---
 import Container from "../shared/Container.astro";
-
 ---
 <footer>
-    <div class=" bg-gradient-to-tl from-box-bg py-2 relative">
+    <div class="bg-gradient-to-tl from-box-bg py-2 relative">
         <Container>
             <div class="flex justify-between items-center gap-6 md:text-lg text-heading-3">
                 <div>
                     &copy; <span id="year"></span>  Peñarroyataxi.com   All right reserved 2024
                 </div>
                 <div>
-                    Proudly made by <a href="https://github.com/chelemovil87" target="_blank" class="font-semibold">José Rodríguez</a>
+                    <a href="https://rofern.com" target="_blank" class="font-semibold flex items-center gap-2 hover:text-primary transition-colors">
+                        <span>Proudly made by</span>
+                        <img src="https://rofern.com/img/logo.webp" alt="Rofern Logo" class="h-6 w-auto object-contain" loading="lazy" />
+                        <span>Rofern</span>
+                    </a>
                 </div>
             </div>
         </Container>
